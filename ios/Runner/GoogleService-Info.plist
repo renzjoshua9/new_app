@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDq-zdFAXzsw8bDJUjp9GRopVeuC3yTZUE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>205456388687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newApp</string>
+	<key>PROJECT_ID</key>
+	<string>thesis2-207ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thesis2-207ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:205456388687:ios:1dce7a6ae99e078a88b03a</string>
+	<key>DATABASE_URL</key>
+	<string>https://thesis2-207ad-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
